@@ -8,11 +8,10 @@ package chuong1;
  *
  * @author phong
  */
-public class inbien1 {
+public class conghaiso {
     public static void main(String[] args) {
-        int n1 = 89;
-        double n2 = 313.18;
-        System.out.println(n1);
-        System.out.println(n2);
+        int number1 = 2;
+        int number2 = 3;
+        System.out.println(number1+number2);
     }
 }
