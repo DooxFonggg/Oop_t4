@@ -29,6 +29,6 @@ public class HoanDoi2soXY {
         // print values after swapping
         System.out.println(x);
         System.out.println(y);
-        input.close();
+        input.close();  
     }
 }
