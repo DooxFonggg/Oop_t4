@@ -10,10 +10,8 @@ package chuong2;
  */
 public class vongLap1 {
        public static void main(String[] args) {
-
         // declare variable
         int i = 5;
-
         // while loop
         while (i>=1) {
             System.out.println(i);
