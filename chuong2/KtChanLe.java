@@ -25,7 +25,6 @@ public class KtChanLe {
         else {
           System.out.println("odd");
         }
-     
         input.close();
     }
 }
