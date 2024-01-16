@@ -25,7 +25,7 @@ public class total01 {
             // check if the input is less than or equal to 0
             // break the loop if true
             // else add the value to total
-            if(num < 0) {
+            if(num <= 0) {
                 break;
             }
             total += num;
