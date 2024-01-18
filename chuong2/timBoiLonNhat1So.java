@@ -18,7 +18,7 @@ public class timBoiLonNhat1So {
         int number = input.nextInt();
         
         // run a for loop from i = 100 to 1
-        for (int i = 99; i >=1; --i) {
+        for (int i = 100; i >number; --i) {
 
             // check if i is divisible by number
             // if true, print i and exit the loop
