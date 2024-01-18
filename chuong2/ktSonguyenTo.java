@@ -29,7 +29,7 @@ public class ktSonguyenTo {
         // check if flag is 1 and print either Not a Prime Number or Prime Number
         if(flag == 1) System.out.println("Not a Prime Number");
         else  System.out.println("Prime Number");
-        
+      
         input.close();
     }
 }
