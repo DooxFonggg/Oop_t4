@@ -26,7 +26,6 @@ public class latSo {
           number /= 10;
          
         } 
-        
         return reversed;
     }
 
