@@ -22,6 +22,24 @@ public class Student {
             System.out.println(this.name + " failed the exam.");
         }
     }
+      
+//    String name;
+//    int score;
+//    
+//    Student(String name, int score) {
+//        this.name = name;
+//        this.score = score;
+//    }
+//    
+//    void checkPassFail() {
+//        
+//        if (this.score >= 35) {
+//            System.out.println(this.name + " passed the exam.");
+//        }
+//        else {
+//            System.out.println(this.name + " failed the exam.");
+//        }
+//    }
 }
  
 // Main Clas
