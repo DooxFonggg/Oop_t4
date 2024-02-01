@@ -29,7 +29,7 @@ class Polygon {
 // inherit the Quadrilateral class withs displayInfo() method
 class Quadrilateral extends Polygon{
   void displayInfo() {
-    System.out.println(" A quadrilateral is a polygon with 4 sides.");
+    System.out.println("A quadrilateral is a polygon with 4 sides.");
   }
 }
 public class btGhiDe {
